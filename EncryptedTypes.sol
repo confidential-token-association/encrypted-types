@@ -1,4 +1,5 @@
 type ebool is bytes32;
+
 type euint8 is bytes32;
 type euint16 is bytes32;
 type euint24 is bytes32;
@@ -31,6 +32,39 @@ type euint232 is bytes32;
 type euint240 is bytes32;
 type euint248 is bytes32;
 type euint256 is bytes32;
+
+type eint8 is bytes32;
+type eint16 is bytes32;
+type eint24 is bytes32;
+type eint32 is bytes32;
+type eint40 is bytes32;
+type eint48 is bytes32;
+type eint56 is bytes32;
+type eint64 is bytes32;
+type eint72 is bytes32;
+type eint80 is bytes32;
+type eint88 is bytes32;
+type eint96 is bytes32;
+type eint104 is bytes32;
+type eint112 is bytes32;
+type eint120 is bytes32;
+type eint128 is bytes32;
+type eint136 is bytes32;
+type eint144 is bytes32;
+type eint152 is bytes32;
+type eint160 is bytes32;
+type eint168 is bytes32;
+type eint176 is bytes32;
+type eint184 is bytes32;
+type eint192 is bytes32;
+type eint200 is bytes32;
+type eint208 is bytes32;
+type eint216 is bytes32;
+type eint224 is bytes32;
+type eint232 is bytes32;
+type eint240 is bytes32;
+type eint248 is bytes32;
+type eint256 is bytes32;
 
 type eaddress is bytes32;
 
@@ -67,11 +101,8 @@ type ebytes30 is bytes32;
 type ebytes31 is bytes32;
 type ebytes32 is bytes32;
 
-type ebytes64 is bytes32;
-type ebytes128 is bytes32;
-type ebytes256 is bytes32;
-
 type externalEbool is bytes32;
+
 type externalEuint8 is bytes32;
 type externalEuint16 is bytes32;
 type externalEuint24 is bytes32;
@@ -104,6 +135,39 @@ type externalEuint232 is bytes32;
 type externalEuint240 is bytes32;
 type externalEuint248 is bytes32;
 type externalEuint256 is bytes32;
+
+type externalEint8 is bytes32;
+type externalEint16 is bytes32;
+type externalEint24 is bytes32;
+type externalEint32 is bytes32;
+type externalEint40 is bytes32;
+type externalEint48 is bytes32;
+type externalEint56 is bytes32;
+type externalEint64 is bytes32;
+type externalEint72 is bytes32;
+type externalEint80 is bytes32;
+type externalEint88 is bytes32;
+type externalEint96 is bytes32;
+type externalEint104 is bytes32;
+type externalEint112 is bytes32;
+type externalEint120 is bytes32;
+type externalEint128 is bytes32;
+type externalEint136 is bytes32;
+type externalEint144 is bytes32;
+type externalEint152 is bytes32;
+type externalEint160 is bytes32;
+type externalEint168 is bytes32;
+type externalEint176 is bytes32;
+type externalEint184 is bytes32;
+type externalEint192 is bytes32;
+type externalEint200 is bytes32;
+type externalEint208 is bytes32;
+type externalEint216 is bytes32;
+type externalEint224 is bytes32;
+type externalEint232 is bytes32;
+type externalEint240 is bytes32;
+type externalEint248 is bytes32;
+type externalEint256 is bytes32;
 
 type externalEaddress is bytes32;
 
@@ -139,7 +203,3 @@ type externalEbytes29 is bytes32;
 type externalEbytes30 is bytes32;
 type externalEbytes31 is bytes32;
 type externalEbytes32 is bytes32;
-
-type externalEbytes64 is bytes32;
-type externalEbytes128 is bytes32;
-type externalEbytes256 is bytes32;
