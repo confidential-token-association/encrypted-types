@@ -17,7 +17,6 @@ type euint24 is bytes32;
 ...
 type euint256 is bytes32;
 
-
 type eint8 is bytes32;
 type eint16 is bytes32;
 type eint24 is bytes32;

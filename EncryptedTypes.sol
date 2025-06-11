@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
+
 type ebool is bytes32;
 
 type euint8 is bytes32;
